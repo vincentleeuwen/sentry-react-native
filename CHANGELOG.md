@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Features
+
+- Provide CPU count/frequency data as device context
+
 ### Dependencies
 
 - Bump JavaScript SDK from v7.47.0 to v7.48.0 ([#2975](https://github.com/getsentry/sentry-react-native/pull/2975)
