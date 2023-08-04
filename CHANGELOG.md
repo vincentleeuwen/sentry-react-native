@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Dependencies
+
+- Bump CLI from v2.19.4 to v2.20.4 ([#3212](https://github.com/getsentry/sentry-react-native/pull/3212))
+  - [changelog](https://github.com/getsentry/sentry-cli/blob/master/CHANGELOG.md#2204)
+  - [diff](https://github.com/getsentry/sentry-cli/compare/2.19.4...2.20.4)
+
 ## 5.8.1
 
 ### Dependencies
