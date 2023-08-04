@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Dependencies
+
+- Bump JavaScript SDK from v7.61.0 to v7.61.1 ([#3226](https://github.com/getsentry/sentry-react-native/pull/3226))
+  - [changelog](https://github.com/getsentry/sentry-javascript/blob/develop/CHANGELOG.md#7611)
+  - [diff](https://github.com/getsentry/sentry-javascript/compare/7.61.0...7.61.1)
+
 ## 5.8.1
 
 ### Dependencies
